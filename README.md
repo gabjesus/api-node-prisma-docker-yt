@@ -62,6 +62,8 @@ npm install -D sucrase
 // Instalação de lib de criptografia bcrypt
 npm install bcrypt
 ```
+
+```
 // Instalação de lib de validação de dados
 npm install yup
 ```
